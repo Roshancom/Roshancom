@@ -1,21 +1,21 @@
-# Hi 👋, I'm Roshan Neupane
+# Hi, I'm Roshan Neupane
 
-### Full Stack Developer from Nepal 🇳🇵
+### Full Stack Developer from Nepal
 
 Passionate about building modern, scalable, and user-friendly web applications using modern technologies.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🌱**Next.js, TypeScript, and Backend Architecture**
-- 💻**Full Stack Development & Open Source**
-- ⚡ Love creating real-world projects and improving UI/UX
-- 🎯 Focused on building scalable and production-ready applications
+- **Next.js, TypeScript, and Backend Architecture**
+- **Full Stack Development & Open Source**
+- Love creating real-world projects and improving UI/UX
+- Focused on building scalable and production-ready applications
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - HTML
@@ -44,15 +44,15 @@ Passionate about building modern, scalable, and user-friendly web applications u
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 🌐 Portfolio: https://www.roshanneupane.com.np/
-- 💼 LinkedIn: https://www.linkedin.com/in/roshan-neupane-945209272/
-- 📘 Facebook: https://www.facebook.com/roshan.neupane.5055
+-  Portfolio: https://www.roshanneupane.com.np/
+-  LinkedIn: https://www.linkedin.com/in/roshan-neupane-945209272/
+-  Facebook: https://www.facebook.com/roshan.neupane.5055
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshancom&show_icons=true)
 
@@ -60,4 +60,4 @@ Passionate about building modern, scalable, and user-friendly web applications u
 
 ---
 
-⭐ Always learning, building, and improving.
+ Always learning, building, and improving.
